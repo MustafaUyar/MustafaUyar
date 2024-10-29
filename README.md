@@ -40,7 +40,6 @@
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafauyar&show_icons=true&locale=en&layout=compact" alt="mustafauyar" height="150"/>
     <img src="https://github-readme-stats.vercel.app/api?username=mustafauyar&show_icons=true&locale=en" alt="mustafauyar" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafauyar" alt="mustafauyar" height="150"/>
 </p>
 
 
